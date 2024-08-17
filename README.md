@@ -6,4 +6,4 @@ Welcome to the Supplementary Data repository! This repository contains additiona
 
 
 
-![GeneralWorkflowofaDVCmodel:schemafollowedinsection2](URL-to-image)
+![GeneralWorkflowofaDVCmodel:schemafollowedinsection2](https://github.com/IQraQasim10/DVC-Survey/blob/main/General%20flow.png)
